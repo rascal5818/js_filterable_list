@@ -1,5 +1,5 @@
 # Javascript Filterable List
-A simple filterable list built using Javascript and HTML
+A filterable list built using Javascript and HTML
 
 ![](demo.gif)
 
